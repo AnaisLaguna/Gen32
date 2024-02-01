@@ -1,0 +1,26 @@
+.container {
+    background-color:gray ;
+    padding: 40px;
+    margin: 20px;
+}
+
+h3 {
+  position:sticky;
+  text-shadow: 0.1em 0.1em #0c0a0a;
+  width: 512px;
+  margin: 16px;
+  top: 12px;
+  color:rgba(66, 78, 105, 0.527);
+  background-color:rgb(49, 56, 88);
+  font-size: 40px;
+  padding-left: 512px;
+
+}
+
+ul li{
+  font-family:Georgia; 
+    font-size:16px;
+
+}
+
+
