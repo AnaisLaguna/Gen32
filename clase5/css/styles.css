@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor {
+    background-color: black;
+    width: 480px;
+    height: 480px;
+}
+
+/*media queries*/
+
+@media screen and (min-width: 768px) {
+    .contenedor{
+        background-color: rgb(120,9,9);
+        width: 400px;
+        height: 400px;
+    }
+    
+}
+
+@media screen and (min-width: 1440px) {
+    .contenedor{
+        background-color: rgb(57,0,0);
+        width: 400px;
+        height: 400px;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .contenedor{
+        background-color: rgb(46,156,74);
+        width: 400px;
+        height: 400px;
+    }
+}
+/*medidas para tablet */
+@media screen and (min-widht: 1380px) {
+    .contenedor{
+        background-color: rgb(252,58,242);
+        width: 400px;
+        height: 400px;
+    }
+}
