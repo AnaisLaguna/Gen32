@@ -1,0 +1,78 @@
+body{
+    background-color: black;
+}
+
+.inicio{
+    outline: 2 px solid;
+    outline-color: white;
+    margin: 0;
+    padding: 2%;
+    background-color: blueviolet;
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+.nav{
+    outline: 2 px solid;
+    outline-color: white;
+    margin: 0;
+    padding: 0;
+    background-color:aqua;
+    text-align: center;
+    margin-top: 1%;
+}
+
+.section{
+    outline: 2 px solid;
+    outline-color: white;
+    margin: 0;
+    padding: 12%;
+    background-color:blue;
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+.article{
+    outline: 2 px solid;
+    outline-color: white;
+    margin: 0;
+    padding: 2%;
+    background-color: blueviolet;
+    text-align: center;
+    margin-top: 1%;
+    width: 72%;
+}
+
+.footer{
+    outline: 2 px solid;
+    outline-color: white;
+    margin: 0;
+    padding: 2%;
+    background-color: blueviolet;
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+.article{
+    outline: 2 px solid;
+    outline-color: white;
+    margin: 0;
+    padding: 2%;
+    background-color: blueviolet;
+    text-align: center;
+    margin-top: 1%;
+    width: 72%;
+    display: inline-block;
+}
+
+.article1{
+    outline: 2 px solid;
+    outline-color: white;
+    margin: 0;
+    padding: 2%;
+    background-color: blueviolet;
+    text-align: right;
+    margin-top: 1%;
+    width:12%;
+    
+}
